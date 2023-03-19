@@ -27,12 +27,13 @@ To opt-out of personalised advertising, please follow the instructions provided 
 
 **Specific App Permissions that Fox Fall uses include;**
 
-<uses-permission android:name="android.permission.INTERNET" />
+*   \<uses-permission android:name="android.permission.INTERNET" /\>
 
 Internet access is required for providing advertisements.
 
-<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+*   \<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /\>
+
+*   \<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /\>
 
 Access to internal storage is required to maintain the user’s high score.
 
